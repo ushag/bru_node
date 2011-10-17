@@ -1,0 +1,12 @@
+div#salute {
+	margin: 150px auto;
+	text-align: center;
+	border: 5px solid green;
+	padding: 10px;
+	width: 25%;
+	font: 30px bold verdana, arial;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+}
